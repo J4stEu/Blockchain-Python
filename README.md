@@ -1,2 +1,4 @@
 # Blockchain-Python
-Python(Flask)
+
+Stack:
+- Python (Flask)
